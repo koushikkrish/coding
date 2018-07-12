@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19305" started-at="2018-07-12T09:02:31Z" finished-at="2018-07-12T09:02:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19305" started-at="2018-07-12T09:02:31Z" finished-at="2018-07-12T09:02:50Z">
+      <class name="flash.NavigationalTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:flash.NavigationalTest@a3ffec]" name="beforeTest" is-config="true" duration-ms="14" started-at="2018-07-12T09:02:31Z" finished-at="2018-07-12T09:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:flash.NavigationalTest@a3ffec]" name="f" duration-ms="19258" started-at="2018-07-12T09:02:31Z" finished-at="2018-07-12T09:02:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- flash.NavigationalTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
